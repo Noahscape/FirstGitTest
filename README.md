@@ -1,2 +1,2 @@
 # FirstGitTest
-new C++ coder; practice;
+new C++ coder; practice;{}
